@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I specialise in translating business goals into actionable requirements, maintaining crisp acceptance criteria, and collaborating with offshore engineering partners to deliver scalable SaaS solutions — with hands-on SQL validation, UAT/QA support, and structured documentation (BRDs, FRDs, runbooks).
 
-**Focus domains:** Analytics, B2B SaaS, compliance-heavy environments
+**Focus domains:** Business Analysis, B2B SaaS, compliance-driven domains.
 
 ## 🔧 Skills & Tools
 - Business Analysis: Requirements elicitation, BRDs, FRDs, User Stories, Acceptance Criteria
