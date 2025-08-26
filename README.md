@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Harshad 👋
 
-🚀 Technical Business Analyst / Product Engineer with 4+ years’ experience bridging product strategy and technical execution.
+🚀 Technical Business Analyst / Product Management with 4+ years’ experience bridging product strategy and technical execution.
 📍 Oxford, UK | MSc Management & Business Analytics @ Oxford Brookes
 
 I specialise in translating business goals into actionable requirements, maintaining crisp acceptance criteria, and collaborating with offshore engineering partners to deliver scalable SaaS solutions — with hands-on SQL validation, UAT/QA support, and structured documentation (BRDs, FRDs, runbooks).
